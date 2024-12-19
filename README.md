@@ -57,3 +57,9 @@ Based on the analysis conducted, here are actionable recommendations for optimiz
 5. **Test and Iterate**: Implement systematic testing of new strategies and features, such as A/B testing, to refine the customer experience and maximize conversion rates.
 
 By implementing these recommendations, the company can leverage customer data insights to optimize sales channels, enhance customer satisfaction, and drive increased profitability over time.
+
+
+## Contact
+Name: **Jay Dilip Varma**  
+Email: jay01varma@gmail.com  
+LinkedIN: [jay01varma](https://www.linkedin.com/in/connect-wtih-jay-varma/)
